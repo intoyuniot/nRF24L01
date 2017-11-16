@@ -1,0 +1,55 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+nRF24L01   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+startListening  KEYWORD2
+stopListening  KEYWORD2
+write  KEYWORD2
+available  KEYWORD2
+read  KEYWORD2
+openWritingPipe  KEYWORD2
+openReadingPipe  KEYWORD2
+setRetries  KEYWORD2
+setChannel  KEYWORD2
+setPayloadSize  KEYWORD2
+getPayloadSize  KEYWORD2
+getDynamicPayloadSize  KEYWORD2
+enableAckPayload  KEYWORD2
+enableDynamicPayloads  KEYWORD2
+isPVariant  KEYWORD2
+setAutoAck  KEYWORD2
+setAutoAck  KEYWORD2
+setPALevel  KEYWORD2
+setDataRate  KEYWORD2
+setCRCLength  KEYWORD2
+disableCRC  KEYWORD2
+printDetails  KEYWORD2
+powerDown  KEYWORD2
+powerUp  KEYWORD2
+startWrite  KEYWORD2
+writeAckPayload  KEYWORD2
+isAckPayloadAvailable  KEYWORD2
+whatHappened  KEYWORD2
+testCarrier  KEYWORD2
+testRPD  KEYWORD2
+isValid  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CONFIG  LITERAL1
+EN_AA  LITERAL1
+EN_RXADDR  LITERAL1
+SETUP_AW  LITERAL1

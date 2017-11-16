@@ -1,0 +1,17 @@
+{
+    "name": "nRF24L01",
+    "version": "1.0.0",
+    "keywords": "RF24L01",
+    "description": "nRF24L01-2.4G无线模块驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/nRF24L01.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
